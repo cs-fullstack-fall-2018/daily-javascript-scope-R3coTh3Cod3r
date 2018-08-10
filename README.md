@@ -11,6 +11,8 @@ var lname = prompt("Please enter your last name:");
 document.write(sample());
 ```
 
+What is the output of the document.write(sample()));
+
 A: AdamWarlock
 
 B: Nothing, blank screen
