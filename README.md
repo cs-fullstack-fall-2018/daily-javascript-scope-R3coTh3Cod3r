@@ -22,4 +22,4 @@ C: ReferenceError: fname not defined
 D: fnamelname
 
 WRITE ANSWER HERE
-The answer is c
+The answer is D
